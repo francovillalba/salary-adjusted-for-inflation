@@ -1,4 +1,4 @@
-The purpose of this "project" is to create a tool that enables me and other employees at Accenture Argentina to track their salary evolution compared to:
+The purpose of this "project" is to create a tool that enables me and other employees at Accenture Argentina to track our salary evolution compared to:
 * "Informal" US dollar exchange rate
 * Inflation from GBA, informed by INDEC.
 
